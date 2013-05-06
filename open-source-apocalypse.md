@@ -19,3 +19,10 @@ own hands and not leave it to chance or the whims of a large corporation.
 Come learn some tips on navigating a world where a large corporation is involved
 in .NET OSS (hint, it’s been done before) and how to create a project that can 
 stand on its own in the presence of an 800lb gorilla.
+
+Some topics covered include...
+
+* Getting people interested in your project
+* Cultivating contributors
+* Licenses and Lawyers
+* Leveraging foundations
